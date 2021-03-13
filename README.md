@@ -2,4 +2,4 @@
 First Repository
 
 yo humans 
-waddup
+only human
